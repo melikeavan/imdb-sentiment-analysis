@@ -1,5 +1,5 @@
 # IMDB Sentiment Analysis Project
-Bu proje, IMDB film yorumları verisi üzerinde **Doğal Dil İşleme (NLP)** teknikleri, **Makine Öğrenmesi (ML)**, **Derin Öğrenme (DL)** ve **Kümeleme (Clustering)** algoritmalarını kullanarak yorumların **olumlu** ya da **olumsuz** olarak sınıflandırılmasını ve analiz edilmesini amaçlamaktadır.
+Bu proje, IMDB film yorumları verisi üzerinde **Doğal Dil İşleme (NLP)** teknikleri, **Makine Öğrenmesi (ML)**, **Derin Öğrenme (DL)** algoritmalarını kullanarak yorumların **olumlu** ya da **olumsuz** olarak sınıflandırılmasını ve analiz edilmesini amaçlamaktadır.
 
 ---
 
